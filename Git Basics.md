@@ -2,9 +2,9 @@
 The recommendation for this course is to fork the repo, don't make any changes unless you're familar with git, and regularly synchronize the repo to update the course material. 
 
 ## Introduction
-Git is a free and open source distributed version control system(controlling file or project version) designed to handle everything from small to very large projects with speed and efficiency.
+Git is a free and open source distributed version control system (controlling file or project version) designed to handle everything from small to very large projects with speed and efficiency.
 
-Git's only role here it for downloading and updating course material(We will use moodle to upload homework).
+In this course, we will be using Git mainly for downloading and updating course materials (We will use moodle to upload homework).
 
 ## Signing up in Github
 
@@ -12,9 +12,7 @@ GitHub offers free accounts for user on public and open source projects, as well
 
 ### Signing up for service
 
-1. Go to GitHub's homepage.(https://github.com/)
-
-https://github.com/
+1. Go to GitHub's homepage (https://github.com/).
 
 ![GitHub_homepage](Figures/GitHub_homepage.png)
 
@@ -33,7 +31,7 @@ https://github.com/
 
 ## Installating and Setting up Github Desktop
 
-Github Desktop is a tool developed by Github. For installing Github Desktop, please check out your operating system, then follow the instructions.
+Github Desktop is a tool developed by Github. To install Github Desktop, please check your operating system, then follow the instructions.
 
 ### Windows 
 
@@ -47,13 +45,13 @@ For 64-bit: https://desktop.github.com/
 
 2. In your computer's **Downloads** folder, double-click GitHub Desktop.
 
-Before Installation, you should check if Microsoft .NET Framework 4.5(or higher versions) has been installed in your computer. 
+Before Installation, you should check if Microsoft .NET Framework 4.5 (or higher versions) has been installed in your computer. 
 
 3. In the pop-up window, click **Install**.
 
 4. After the program has been installed, click **Run**.
 
-5. Fill in your Username(or Email) and Password to log in.
+5. Fill in your Username (or Email) and Password to log in.
 
 ### Mac
 
@@ -67,22 +65,20 @@ Your can install GitHub Desktop on OS X 10.9 or later.
 
 4. After the file has been unzipped, double-click **GitHub Desktop**.
 
-5. Fill in your Username(or Email) and Password to log in.
+5. Fill in your Username (or Email) and Password to log in.
 
 ## Downloading Material
 
-1. Fork the repository
+1. Fork the repository:
 https://github.com/jiamingmao/principles-of-economics
 
-https://github.com/gaoqinghui/POE-TA-Sessions
-
-open up the pages, and click the **Fork** botton in the upper-right-hand corner.
+Open up the pages, and click the **Fork** botton in the upper-right-hand corner.
 
 ![GitHub_fork](Figures/GitHub_fork.png)
 
 2. Run your GitHub Desktop and clone the repository
 
-Run your GitHub Desktop, click the **"plus sign"** botton in the upper-left-hand corner, then click *Clone* and double-click the chosen repository to clone(*priciples-of-economics* or *POE-TA-Sessions*)
+Run your GitHub Desktop, click the **"plus sign"** botton in the upper-left-hand corner, then click *Clone* and double-click the chosen repository to clone (*priciples-of-economics* or *POE-TA-Sessions*)
 
 3. Choose the directory you wish to clone the repository into, and be patient.
 
@@ -92,7 +88,7 @@ Run your GitHub Desktop, click the **"plus sign"** botton in the upper-left-hand
 
 ![GitHub_sync](Figures/GitHub_sync.png)
 
-Make sure not to change anything in the directory, and click the **Sync** botton in the upper-right-hand corner. If it doesn't work, please contact me, and I will give other instructions for dealing the problem(Since it involves some Git command, I will not show you if everything works fine).
+Make sure not to change anything in the directory, and click the **Sync** botton in the upper-right-hand corner. If it doesn't work, please contact me, and I will give other instructions for dealing the problem. (Since it involves some Git command, I will not show you if everything works fine).
 
 
 ## Other recommended Material for Git or GitHub
