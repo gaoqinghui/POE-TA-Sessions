@@ -1,5 +1,5 @@
 # Git Basics
-The recommendation for this course is to fork the repo, and don't make anything changed unless you're familar with git, and regularly synchronize the repo to update the course material. 
+The recommendation for this course is to fork the repo, don't make any changes unless you're familar with git, and regularly synchronize the repo to update the course material. 
 
 ## Introduction
 Git is a free and open source distributed version control system(controlling file or project version) designed to handle everything from small to very large projects with speed and efficiency.
@@ -97,13 +97,13 @@ Make sure not to change anything in the directory, and click the **Sync** botton
 
 ## Other recommended Material for Git or GitHub
 
-### GitHub help£¨GitHub¹ÙÍø³öÆ·£©
+### GitHub helpï¼ˆGitHubå®˜ç½‘å‡ºå“ï¼‰
 https://help.github.com/
 
-### Git ½Ì³Ì£¨Í¨Ë×Ò×¶®£¬ÖĞÎÄ£©
+### Git æ•™ç¨‹ï¼ˆé€šä¿—æ˜“æ‡‚ï¼Œä¸­æ–‡ï¼‰
 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
 
-### Git »ù±¾²Ù×÷£¨ÖĞÎÄ£©
+### Git åŸºæœ¬æ“ä½œï¼ˆä¸­æ–‡ï¼‰
 http://www.runoob.com/git/git-basic-operations.html
 
 
