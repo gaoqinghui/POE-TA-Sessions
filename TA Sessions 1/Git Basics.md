@@ -69,18 +69,14 @@ Your can install GitHub Desktop on OS X 10.9 or later.
 
 ## Downloading Material
 
-1. Fork the repository:
-https://github.com/jiamingmao/principles-of-economics
 
-Open up the pages, and click the **Fork** botton in the upper-right-hand corner.
-
-![GitHub_fork](Figures/GitHub_fork.png)
+1. Copy the URL of the repository
 
 2. Run your GitHub Desktop and clone the repository
 
-Run your GitHub Desktop, click the **"plus sign"** botton in the upper-left-hand corner, then click *Clone* and double-click the chosen repository to clone (*priciples-of-economics* or *POE-TA-Sessions*)
+Run your GitHub Desktop, click the **"plus sign"** botton in the upper-left-hand corner, then click "URL", paste the URL of the repositorie
 
-3. Choose the directory you wish to clone the repository into, and be patient.
+3. Choose the directory you wish to clone the repository into, click **clone**, and be patient.
 
 4. Go to the directory and enjoy it.
 
